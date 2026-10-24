@@ -1,0 +1,16 @@
+{
+  "name": "cfnext-worker",
+  "main": "./CFNext-混淆版.js",
+  "compatibility_date": "2026-10-24",
+
+  "kv_namespaces": [
+    {
+      "binding": "K",
+      "id": "cfnext"
+    }
+  ],
+
+  "vars": {
+    "L": "admin"
+  }
+}
